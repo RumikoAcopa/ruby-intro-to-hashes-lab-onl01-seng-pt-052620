@@ -1,7 +1,6 @@
 def new_hash
 	empty_hash = {}
 end
-	return new_hash
 
 def actor
 	actor = {:name => "Dwayne The Rock Johnson"}
